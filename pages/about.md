@@ -4,14 +4,12 @@ type: AboutPage
 title: Who I am ?
 permalink: /about/
 description: >
-  Минималист, фронтенд разработчик с 5-летним опытом. Пишу на Vue.js и Nuxt.js, хочу работать на себя
+  You'r daily dose of Entrepreneurship,Marketing and Tech.
 ---
-I'm Souhail Somai, citizen of Earth .
+I'm Souhail Somai 👨‍💻, I live somewhere here🌎 .
 
-I enjoy learning about Eusiness Entrepreunrship 
-В&nbsp;свободное время изучаю и&nbsp;тестирую новые технологии и&nbsp;фичи на&nbsp;своих [проектах](/projects/), изучаю английский, ремонтирую дом и&nbsp;отдыхаю.
-
-[Резюме](/resume/) и&nbsp;[профиль на&nbsp;гитхабе](https://github.com/ymatuhin), там&nbsp;же есть несколько проектов.
-
-Лучший способ связаться со&nbsp;мной&nbsp;&mdash; написать мне на&nbsp;почту <a href="mailto:ym@ymatuhin.ru">ym@ymatuhin.ru</a>.
-Чаще чем на&nbsp;почте я&nbsp;бываю в твитере <a href="https://twitter.com/ymatuhin">@ymatuhin</a>.
+I enjoy learning about Business, Entrepreunrship and Marketing 💻
+I post content about topics that i find intresting aswell as I do consulting and Digital Marketing for startups and Businesses.
+Feel free to contact me :
+You can contact me privately for consulting and work related things 💼: <a href="mailto:somaisouhail0@gmail.com">souhailsomai01@gmail.com</a>.
+Connect with me on twitter🐦 I post daily tips💡: <a href="https://twitter.com/souhail_somai">@souhail_somai</a>.
