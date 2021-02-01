@@ -3,9 +3,7 @@ title: Souhails
 author: souhail
 email: somaisouhail0@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Фронтенд разработчик, веду блог,
-  интересуюсь архитектурой приложений,
-  дизайном и текстом. Хочу работать на себя
+  Digital marketing, Entrepreneurship you'r daily dose of knowledge.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://souhails.me" # the base hostname & protocol for your site, e.g. http://example.com
 twitter:
@@ -15,9 +13,9 @@ social:
   name: Souhail Somai
   links:
     - https://twitter.com/ymatuhin
-    - https://github.com/ymatuhin
-    - https://vk.com/ymatuhin
-    - https://www.facebook.com/ym.ymatuhin
+    - https://instagram.com/bazol.co
+    
+    
 
 # Build settings
 safe: true
