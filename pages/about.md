@@ -13,5 +13,5 @@ I post content about topics that i find intresting aswell as I do consulting and
 Feel free to contact me :
 You can contact me privately for consulting and work related things 💼: <a href="mailto:somaisouhail0@gmail.com">souhailsomai01@gmail.com</a>.
 Connect with me on twitter🐦 I post daily tips💡: <a href="https://twitter.com/souhail_somai">@souhail_somai</a>.
-You can support me : <a href="https://en.tipeee.com/souhails" class="tipeee-goal-block" data-color="blue">Support souhails on Tipeee</a>
+You can support me :<center> <a href="https://en.tipeee.com/souhails" class="tipeee-goal-block" data-color="blue">Support souhails on Tipeee</a></center>
 <script async src="https://plugin.tipeee.com/widget.js" charset="utf-8"></script>
