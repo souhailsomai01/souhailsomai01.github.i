@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Обзор нового интернет браузера Vivaldi
+title: What they did different: Bumbul, okcupid & tinder
 description: >
-  Старая Опера вернулась в виде нового интернет браузера Vivaldi. Обзор нового браузера и отзывы к нему.
+  A case study about they business approach of  Bumbul, okcupid & tinder and what they did different.
 categories: blog
 tags: >
-  vivaldi интернет браузер обзор вивальди отзыв
+  Bumbul okcupid tinder business case study
 image:
   path: /assets/img/diff/main.png
   width: 1392
