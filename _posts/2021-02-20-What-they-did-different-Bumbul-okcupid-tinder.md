@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What they did different Bumbul okcupid tinder
+title: What they did different: Bumbul okcupid tinder
 description: >
   Старая Опера вернулась в виде нового интернет браузера Vivaldi. Обзор нового браузера и отзывы к нему.
 categories: blog
