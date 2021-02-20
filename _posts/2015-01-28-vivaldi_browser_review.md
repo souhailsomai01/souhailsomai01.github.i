@@ -1,10 +1,10 @@
 ---
 layout: post
 title: What they did different: Bumbul, okcupid & tinder
-description: >
+description: 
   A case study about they business approach of  Bumbul, okcupid & tinder and what they did different.
 categories: blog
-tags: >
+tags: 
   Bumbul okcupid tinder business case study
 image:
   path: /assets/img/diff/main.png
