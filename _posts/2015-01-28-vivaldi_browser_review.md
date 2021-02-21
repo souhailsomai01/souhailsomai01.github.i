@@ -2,7 +2,7 @@
 layout: post
 title: What they did different Bumbul, okcupid & tinder
 description: >
-  A case study about they business approach of  Bumbul okcupid & tinder and what they did different.
+  A case study about the business approach of  Bumbul okcupid & tinder and what they did different.
 categories: blog
 tags: >
   Bumbul okcupid tinder business case study
@@ -13,7 +13,7 @@ image:
   alt: Интернет браузер Vivaldi
 ---
 
-Мои поздравления всем, но в особенности поклонникам браузера Opera, которые возможно все еще сидят на ней, или уже перешли на другой новомодный браузер, но все еще грезят воспоминаниями, у есть меня для вас великолепная новость — старая Opera возвращается! (_осторожно много графики_)
+The online dating platforms are availble everywhere on the internet they vary in the niches for each targeted category of users but only few of them stands out and managed to gain their customers trust through their innovations and what they did different, I took the example of Bumble, Tinder, Okcupid as case study to undrestand on **what they did different ?**
 
 {% include media-post-image.html %}
 
