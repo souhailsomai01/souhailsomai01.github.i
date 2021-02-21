@@ -13,7 +13,7 @@ image:
   alt: Интернет браузер Vivaldi
 ---
 
-The online dating platforms are availble everywhere on the internet they vary in the niches for each targeted category of users but only few of them stands out and managed to gain their customers trust through their innovations and what they did different, I took the example of Bumble, Tinder, Okcupid as case study to undrestand on **what they did different ?**
+The online dating platforms are availble everywhere on the internet they vary in the niches for each targeted category of users but only few of them stands out and managed to gain their customers trust through their innovations and their business approaches, I took the example of 'Bumble, Tinder, Okcupid' as case study to undrestand on **what they did different ?**
 
 {% include media-post-image.html %}
 
