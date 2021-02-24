@@ -10,14 +10,16 @@ image:
   path: /assets/img/diff/main.png
   width: 1392
   height: 885
-  alt: Интернет браузер Vivaldi
+  alt: Case study Bumbul okcupid tinder
 ---
 
-The online dating platforms are availble everywhere on the internet they vary in the niches for each targeted category of users but only few of them stands out and managed to gain their customers trust through their innovations and their business approaches, I took the example of `Bumble, Tinder, Okcupid` as case study to undrestand on **what they did different ?**
+Online dating platforms are availble everywhere on the internet, they vary in the niches for each targeted category of users, but only few of them stands out and managed to gain their customers trust through their innovations and their business approaches, I took the example of `Bumble, Tinder, Okcupid` as case study to undrestand on **what they did different ?**
 
 {% include media-post-image.html %}
 
-Да да, именно так, крутые ребята (25 человек), в числе которых Йон фон Течнер (соавтор старой Оперы), выпускают новый интернет браузер на основе Chromium — **Vivaldi**. Подробную информацию о нем можно почитать на [официальном сайте](http://vivaldi.com){:rel='nofollow'}(en) или в обзорах на хабре [тут](https://habrahabr.ru/post/248941/){:rel='nofollow'} и [тут](https://habrahabr.ru/post/248961/){:rel='nofollow'}. А я опишу новые (или старые) фишки, которые есть в этом браузере.
+The goal of dating platforms is simple at the same time very fragile, gaining users trust requires constant care and working hard to ensure a safe place.
+
+## About Okcupid : 
 
 Вот так выглядит браузер при потере фокуса (mac os):
 
