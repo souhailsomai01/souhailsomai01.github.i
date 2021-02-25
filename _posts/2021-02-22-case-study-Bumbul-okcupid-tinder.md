@@ -25,7 +25,7 @@ The goal of dating platforms is simple at the same time very fragile, gaining us
 
 {%
 	include media-image.html
-	url="vivaldi/default_view_inactive.png"
+	path: /assets/img/diff/okcup.png
 	caption="Vivaldi – вид по умолчанию без фокуса"
 	width="1364"
 	height="857"
