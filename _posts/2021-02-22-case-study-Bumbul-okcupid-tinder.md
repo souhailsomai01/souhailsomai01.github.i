@@ -21,12 +21,11 @@ The goal of dating platforms is simple at the same time very fragile, gaining us
 
 ## About Okcupid : 
 
-Вот так выглядит браузер при потере фокуса (mac os):
-
+Launched on january 2004 (17 years ago 
 {%
 	include media-image.html
 	url="diff/okcup.png"
-	caption="Vivaldi – вид по умолчанию без фокуса"
+	caption="Okcupid – Logo"
 	width="1364"
 	height="857"
 
