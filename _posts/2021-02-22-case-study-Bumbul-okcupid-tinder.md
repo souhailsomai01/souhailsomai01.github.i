@@ -21,7 +21,7 @@ The goal of dating platforms is simple at the same time very fragile, gaining us
 
 ## About Okcupid : 
 
-Launched on january 2004 (17 years ago 
+Launched on january 2004 (17 years ago ) now it's owned by the giant match.com group
 {%
 	include media-image.html
 	url="diff/okcup.png"
@@ -31,7 +31,7 @@ Launched on january 2004 (17 years ago
 
 %}
 
-Мне кажется это очень удачным решением, чтобы браузер не отвлекал лишними цветами, когда человек находится в другом приложении. Надеюсь эта фишка перейдет и в другие приложения.
+Okcupid managed to earn a significant part of the market share of online dating websites
 
 ## Быстрые команды
 
